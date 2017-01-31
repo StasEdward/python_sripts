@@ -1,0 +1,4 @@
+0 1 * * * /root/python/dayly_stat.py >> /root/python/dayly_stat.log
+0 * * * * /root/python/service.py >> /root/python/service.log
+0,10,20,30,40,50 * * * * /home/share/db_insert.sh >> db_insert.log
+0,20,40 * * * * /root/python/uut_top_fails.py  >> /root/python/uut_top_fails.log
