@@ -1558,3 +1558,16 @@ VCL:	2177 Pass, 190 Fail, 101 Error
 JBL1:	18 Pass, 7 Fail, 3 Error
 Script ended at: Sun Feb  5 13:00:14 2017
 *****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 14:00:01 2017
+Ceragon:	4 Pass, 2 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	272 Pass, 41 Fail, 15 Error
+Flex2:	244 Pass, 38 Fail, 21 Error
+VCL:	2177 Pass, 190 Fail, 101 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 14:10:47 2017
+*****************************************************************************************
