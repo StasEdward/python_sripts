@@ -10,7 +10,8 @@ import sys
 print "*****************************************************************************************"
 print "* This script receive YEILD data from all servers and put to local data base for fast access *"
 print "*****************************************************************************************"
-
+print "using: uut_yeild.py {param1} {param2} "
+print "param1: string UUT type(IDU or ODU), param2: int minimum UUTs for select"
 print 'Number of arguments:', len(sys.argv), 'arguments.'
 print 'Argument List:', str(sys.argv)
 
