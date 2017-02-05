@@ -1,3 +1,6 @@
 # log files
-*.log
+/root/python/*.log
+<<<<<<< HEAD
 
+=======
+>>>>>>> a026d80e9a3c5535556ded9d996f990010f71b36
