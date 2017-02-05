@@ -44,7 +44,7 @@ for (name, fails, facility) in rows:
 	uut_fail = fails
 	uut_facility = facility
 	DB_INSERT = 'INSERT INTO atestat.UUT_TOP_FAILS (id, UUT_NAME, UUT_FAILS, FACILITY ) VALUES (null, "%s", %d, "%s")' % (uut_name, uut_fail, uut_facility)
-	print(DB_INSERT)
+	#print(DB_INSERT)
 	cur_local_ins = cnx.cursor()
 	cur_local_ins.execute(DB_INSERT)
 	#cnx2.commit()

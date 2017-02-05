@@ -37,3 +37,1524 @@ VCL:	1280 Pass, 197 Fail, 76 Error
 JBL1:	454 Pass, 72 Fail, 44 Error
 Script ended at: Tue Jan 31 16:00:16 2017
 *****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Tue Jan 31 17:00:01 2017
+Ceragon:	9 Pass, 13 Fail, 1 Error
+Ionics1:	8 Pass, 6 Fail, 2 Error
+Ionics2:	133 Pass, 63 Fail, 20 Error
+Flex1:	1182 Pass, 209 Fail, 86 Error
+Flex2:	837 Pass, 97 Fail, 116 Error
+VCL:	1315 Pass, 198 Fail, 77 Error
+JBL1:	479 Pass, 75 Fail, 45 Error
+Script ended at: Tue Jan 31 17:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Tue Jan 31 18:00:01 2017
+Ceragon:	9 Pass, 13 Fail, 1 Error
+Ionics1:	8 Pass, 6 Fail, 2 Error
+Ionics2:	135 Pass, 64 Fail, 22 Error
+Flex1:	1213 Pass, 214 Fail, 87 Error
+Flex2:	849 Pass, 100 Fail, 118 Error
+VCL:	1319 Pass, 199 Fail, 77 Error
+JBL1:	487 Pass, 76 Fail, 48 Error
+Script ended at: Tue Jan 31 18:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Tue Jan 31 19:00:02 2017
+Ceragon:	9 Pass, 13 Fail, 1 Error
+Ionics1:	8 Pass, 6 Fail, 2 Error
+Ionics2:	138 Pass, 68 Fail, 22 Error
+Flex1:	1237 Pass, 221 Fail, 91 Error
+Flex2:	866 Pass, 104 Fail, 119 Error
+VCL:	1349 Pass, 203 Fail, 79 Error
+JBL1:	501 Pass, 81 Fail, 49 Error
+Script ended at: Tue Jan 31 19:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Tue Jan 31 20:00:01 2017
+Ceragon:	9 Pass, 13 Fail, 1 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	138 Pass, 68 Fail, 23 Error
+Flex1:	1261 Pass, 226 Fail, 91 Error
+Flex2:	875 Pass, 105 Fail, 121 Error
+VCL:	1385 Pass, 205 Fail, 79 Error
+JBL1:	507 Pass, 83 Fail, 49 Error
+Script ended at: Tue Jan 31 20:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Tue Jan 31 21:00:01 2017
+Ceragon:	9 Pass, 13 Fail, 1 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	140 Pass, 68 Fail, 23 Error
+Flex1:	1282 Pass, 231 Fail, 91 Error
+Flex2:	880 Pass, 107 Fail, 122 Error
+VCL:	1435 Pass, 207 Fail, 80 Error
+JBL1:	513 Pass, 87 Fail, 49 Error
+Script ended at: Tue Jan 31 21:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Tue Jan 31 22:00:02 2017
+Ceragon:	9 Pass, 13 Fail, 1 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	140 Pass, 68 Fail, 23 Error
+Flex1:	1302 Pass, 240 Fail, 95 Error
+Flex2:	884 Pass, 108 Fail, 124 Error
+VCL:	1483 Pass, 209 Fail, 81 Error
+JBL1:	518 Pass, 89 Fail, 49 Error
+Script ended at: Tue Jan 31 22:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Tue Jan 31 23:00:01 2017
+Ceragon:	9 Pass, 13 Fail, 1 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	140 Pass, 68 Fail, 23 Error
+Flex1:	1313 Pass, 245 Fail, 97 Error
+Flex2:	887 Pass, 108 Fail, 124 Error
+VCL:	1536 Pass, 213 Fail, 83 Error
+JBL1:	523 Pass, 94 Fail, 49 Error
+Script ended at: Tue Jan 31 23:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 00:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	140 Pass, 69 Fail, 23 Error
+Flex1:	1329 Pass, 246 Fail, 97 Error
+Flex2:	410 Pass, 51 Fail, 69 Error
+VCL:	1579 Pass, 216 Fail, 83 Error
+JBL1:	337 Pass, 63 Fail, 28 Error
+Script ended at: Wed Feb  1 00:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 01:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	118 Pass, 54 Fail, 18 Error
+Flex1:	788 Pass, 140 Fail, 52 Error
+Flex2:	410 Pass, 51 Fail, 69 Error
+VCL:	1620 Pass, 220 Fail, 86 Error
+JBL1:	340 Pass, 65 Fail, 28 Error
+Script ended at: Wed Feb  1 01:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 02:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	120 Pass, 57 Fail, 18 Error
+Flex1:	796 Pass, 141 Fail, 52 Error
+Flex2:	414 Pass, 51 Fail, 69 Error
+VCL:	1719 Pass, 233 Fail, 92 Error
+JBL1:	346 Pass, 65 Fail, 28 Error
+Script ended at: Wed Feb  1 02:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 03:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	5 Pass, 6 Fail, 2 Error
+Ionics2:	120 Pass, 57 Fail, 18 Error
+Flex1:	803 Pass, 142 Fail, 52 Error
+Flex2:	414 Pass, 51 Fail, 70 Error
+VCL:	1821 Pass, 247 Fail, 96 Error
+JBL1:	352 Pass, 66 Fail, 33 Error
+Script ended at: Wed Feb  1 03:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 04:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	6 Pass, 6 Fail, 2 Error
+Ionics2:	121 Pass, 59 Fail, 18 Error
+Flex1:	813 Pass, 142 Fail, 54 Error
+Flex2:	415 Pass, 51 Fail, 70 Error
+VCL:	1897 Pass, 259 Fail, 105 Error
+JBL1:	359 Pass, 69 Fail, 35 Error
+Script ended at: Wed Feb  1 04:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 05:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	6 Pass, 6 Fail, 2 Error
+Ionics2:	125 Pass, 62 Fail, 19 Error
+Flex1:	814 Pass, 144 Fail, 56 Error
+Flex2:	415 Pass, 51 Fail, 70 Error
+VCL:	2051 Pass, 270 Fail, 112 Error
+JBL1:	364 Pass, 74 Fail, 37 Error
+Script ended at: Wed Feb  1 05:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 06:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	6 Pass, 6 Fail, 2 Error
+Ionics2:	126 Pass, 64 Fail, 19 Error
+Flex1:	817 Pass, 149 Fail, 56 Error
+Flex2:	415 Pass, 51 Fail, 70 Error
+VCL:	2200 Pass, 289 Fail, 116 Error
+JBL1:	369 Pass, 74 Fail, 38 Error
+Script ended at: Wed Feb  1 06:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 07:00:02 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	6 Pass, 6 Fail, 2 Error
+Ionics2:	128 Pass, 66 Fail, 19 Error
+Flex1:	818 Pass, 150 Fail, 57 Error
+Flex2:	418 Pass, 51 Fail, 71 Error
+VCL:	2248 Pass, 297 Fail, 117 Error
+JBL1:	380 Pass, 75 Fail, 39 Error
+Script ended at: Wed Feb  1 07:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 08:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 6 Fail, 2 Error
+Ionics2:	134 Pass, 70 Fail, 21 Error
+Flex1:	839 Pass, 154 Fail, 58 Error
+Flex2:	434 Pass, 51 Fail, 72 Error
+VCL:	2319 Pass, 308 Fail, 126 Error
+JBL1:	385 Pass, 76 Fail, 39 Error
+Script ended at: Wed Feb  1 08:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 09:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 6 Fail, 2 Error
+Ionics2:	139 Pass, 73 Fail, 21 Error
+Flex1:	872 Pass, 163 Fail, 59 Error
+Flex2:	459 Pass, 56 Fail, 78 Error
+VCL:	2412 Pass, 322 Fail, 133 Error
+JBL1:	389 Pass, 79 Fail, 41 Error
+Script ended at: Wed Feb  1 09:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 10:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 6 Fail, 2 Error
+Ionics2:	141 Pass, 76 Fail, 21 Error
+Flex1:	903 Pass, 170 Fail, 61 Error
+Flex2:	488 Pass, 58 Fail, 78 Error
+VCL:	2486 Pass, 332 Fail, 135 Error
+JBL1:	411 Pass, 83 Fail, 50 Error
+Script ended at: Wed Feb  1 10:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 11:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 6 Fail, 2 Error
+Ionics2:	142 Pass, 76 Fail, 21 Error
+Flex1:	944 Pass, 176 Fail, 63 Error
+Flex2:	508 Pass, 69 Fail, 81 Error
+VCL:	2528 Pass, 338 Fail, 138 Error
+JBL1:	437 Pass, 87 Fail, 51 Error
+Script ended at: Wed Feb  1 11:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 12:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 6 Fail, 2 Error
+Ionics2:	142 Pass, 77 Fail, 21 Error
+Flex1:	1004 Pass, 183 Fail, 67 Error
+Flex2:	525 Pass, 75 Fail, 83 Error
+VCL:	2588 Pass, 342 Fail, 144 Error
+JBL1:	478 Pass, 88 Fail, 54 Error
+Script ended at: Wed Feb  1 12:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 13:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	8 Pass, 7 Fail, 2 Error
+Ionics2:	143 Pass, 78 Fail, 21 Error
+Flex1:	1045 Pass, 189 Fail, 68 Error
+Flex2:	538 Pass, 76 Fail, 87 Error
+VCL:	2660 Pass, 345 Fail, 153 Error
+JBL1:	503 Pass, 94 Fail, 58 Error
+Script ended at: Wed Feb  1 13:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 14:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	9 Pass, 7 Fail, 2 Error
+Ionics2:	143 Pass, 80 Fail, 21 Error
+Flex1:	1068 Pass, 192 Fail, 70 Error
+Flex2:	553 Pass, 78 Fail, 88 Error
+VCL:	2704 Pass, 346 Fail, 155 Error
+JBL1:	536 Pass, 101 Fail, 61 Error
+Script ended at: Wed Feb  1 14:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 15:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	9 Pass, 7 Fail, 2 Error
+Ionics2:	143 Pass, 80 Fail, 21 Error
+Flex1:	1124 Pass, 197 Fail, 72 Error
+Flex2:	579 Pass, 82 Fail, 90 Error
+VCL:	2752 Pass, 346 Fail, 155 Error
+JBL1:	566 Pass, 105 Fail, 65 Error
+Script ended at: Wed Feb  1 15:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 16:00:02 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	9 Pass, 7 Fail, 2 Error
+Ionics2:	144 Pass, 80 Fail, 21 Error
+Flex1:	1159 Pass, 201 Fail, 77 Error
+Flex2:	596 Pass, 86 Fail, 92 Error
+VCL:	2778 Pass, 348 Fail, 157 Error
+JBL1:	582 Pass, 108 Fail, 67 Error
+Script ended at: Wed Feb  1 16:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 17:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	10 Pass, 8 Fail, 2 Error
+Ionics2:	147 Pass, 82 Fail, 22 Error
+Flex1:	1172 Pass, 204 Fail, 79 Error
+Flex2:	603 Pass, 86 Fail, 92 Error
+VCL:	2810 Pass, 349 Fail, 160 Error
+JBL1:	603 Pass, 120 Fail, 68 Error
+Script ended at: Wed Feb  1 17:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 18:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	10 Pass, 8 Fail, 2 Error
+Ionics2:	147 Pass, 82 Fail, 22 Error
+Flex1:	1193 Pass, 208 Fail, 81 Error
+Flex2:	608 Pass, 89 Fail, 95 Error
+VCL:	1683 Pass, 171 Fail, 90 Error
+JBL1:	611 Pass, 123 Fail, 68 Error
+Script ended at: Wed Feb  1 18:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 19:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	10 Pass, 8 Fail, 2 Error
+Ionics2:	148 Pass, 82 Fail, 22 Error
+Flex1:	1215 Pass, 210 Fail, 83 Error
+Flex2:	618 Pass, 93 Fail, 95 Error
+VCL:	1733 Pass, 175 Fail, 92 Error
+JBL1:	619 Pass, 123 Fail, 70 Error
+Script ended at: Wed Feb  1 19:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 20:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 2 Fail, 0 Error
+Ionics2:	148 Pass, 82 Fail, 22 Error
+Flex1:	1217 Pass, 210 Fail, 86 Error
+Flex2:	619 Pass, 93 Fail, 95 Error
+VCL:	1755 Pass, 179 Fail, 97 Error
+JBL1:	628 Pass, 126 Fail, 72 Error
+Script ended at: Wed Feb  1 20:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 21:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 2 Fail, 0 Error
+Ionics2:	148 Pass, 82 Fail, 22 Error
+Flex1:	1222 Pass, 212 Fail, 86 Error
+Flex2:	619 Pass, 93 Fail, 95 Error
+VCL:	1797 Pass, 186 Fail, 102 Error
+JBL1:	632 Pass, 127 Fail, 72 Error
+Script ended at: Wed Feb  1 21:00:18 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 22:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 2 Fail, 0 Error
+Ionics2:	148 Pass, 82 Fail, 22 Error
+Flex1:	1225 Pass, 213 Fail, 86 Error
+Flex2:	619 Pass, 93 Fail, 95 Error
+VCL:	1838 Pass, 189 Fail, 106 Error
+JBL1:	638 Pass, 128 Fail, 72 Error
+Script ended at: Wed Feb  1 22:00:18 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Wed Feb  1 23:00:01 2017
+Ceragon:	3 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 2 Fail, 0 Error
+Ionics2:	148 Pass, 82 Fail, 22 Error
+Flex1:	1229 Pass, 216 Fail, 86 Error
+Flex2:	619 Pass, 93 Fail, 95 Error
+VCL:	1873 Pass, 195 Fail, 107 Error
+JBL1:	642 Pass, 131 Fail, 73 Error
+Script ended at: Wed Feb  1 23:00:18 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 00:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	148 Pass, 82 Fail, 22 Error
+Flex1:	1231 Pass, 216 Fail, 87 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	1915 Pass, 199 Fail, 118 Error
+JBL1:	365 Pass, 81 Fail, 47 Error
+Script ended at: Thu Feb  2 00:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 01:00:02 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	91 Pass, 39 Fail, 5 Error
+Flex1:	553 Pass, 88 Fail, 37 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	1951 Pass, 204 Fail, 123 Error
+JBL1:	373 Pass, 86 Fail, 53 Error
+Script ended at: Thu Feb  2 01:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 02:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	91 Pass, 39 Fail, 6 Error
+Flex1:	554 Pass, 88 Fail, 37 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	1996 Pass, 214 Fail, 127 Error
+JBL1:	373 Pass, 88 Fail, 55 Error
+Script ended at: Thu Feb  2 02:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 03:00:02 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	94 Pass, 39 Fail, 7 Error
+Flex1:	554 Pass, 88 Fail, 37 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	2091 Pass, 227 Fail, 134 Error
+JBL1:	376 Pass, 89 Fail, 55 Error
+Script ended at: Thu Feb  2 03:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 04:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	100 Pass, 41 Fail, 7 Error
+Flex1:	555 Pass, 89 Fail, 37 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	2170 Pass, 233 Fail, 141 Error
+JBL1:	381 Pass, 89 Fail, 55 Error
+Script ended at: Thu Feb  2 04:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 05:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	102 Pass, 42 Fail, 8 Error
+Flex1:	559 Pass, 89 Fail, 37 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	2272 Pass, 238 Fail, 148 Error
+JBL1:	386 Pass, 90 Fail, 56 Error
+Script ended at: Thu Feb  2 05:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 06:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	102 Pass, 42 Fail, 8 Error
+Flex1:	559 Pass, 89 Fail, 37 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	2342 Pass, 250 Fail, 155 Error
+JBL1:	390 Pass, 93 Fail, 56 Error
+Script ended at: Thu Feb  2 06:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 07:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	103 Pass, 42 Fail, 9 Error
+Flex1:	559 Pass, 89 Fail, 37 Error
+Flex2:	230 Pass, 48 Fail, 31 Error
+VCL:	2400 Pass, 259 Fail, 165 Error
+JBL1:	395 Pass, 94 Fail, 56 Error
+Script ended at: Thu Feb  2 07:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 08:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	107 Pass, 42 Fail, 9 Error
+Flex1:	574 Pass, 90 Fail, 40 Error
+Flex2:	246 Pass, 52 Fail, 33 Error
+VCL:	2447 Pass, 267 Fail, 171 Error
+JBL1:	402 Pass, 95 Fail, 56 Error
+Script ended at: Thu Feb  2 08:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 09:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	108 Pass, 42 Fail, 10 Error
+Flex1:	606 Pass, 98 Fail, 44 Error
+Flex2:	270 Pass, 55 Fail, 34 Error
+VCL:	2529 Pass, 286 Fail, 173 Error
+JBL1:	408 Pass, 96 Fail, 57 Error
+Script ended at: Thu Feb  2 09:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 10:00:01 2017
+Ceragon:	0 Pass, 3 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	109 Pass, 43 Fail, 11 Error
+Flex1:	622 Pass, 101 Fail, 45 Error
+Flex2:	286 Pass, 57 Fail, 34 Error
+VCL:	2629 Pass, 294 Fail, 180 Error
+JBL1:	426 Pass, 98 Fail, 57 Error
+Script ended at: Thu Feb  2 10:00:18 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 11:00:01 2017
+Ceragon:	1 Pass, 4 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	110 Pass, 44 Fail, 11 Error
+Flex1:	641 Pass, 104 Fail, 47 Error
+Flex2:	314 Pass, 60 Fail, 37 Error
+VCL:	2708 Pass, 308 Fail, 181 Error
+JBL1:	440 Pass, 105 Fail, 58 Error
+Script ended at: Thu Feb  2 11:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 12:00:01 2017
+Ceragon:	2 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	110 Pass, 44 Fail, 11 Error
+Flex1:	683 Pass, 111 Fail, 48 Error
+Flex2:	349 Pass, 68 Fail, 43 Error
+VCL:	2799 Pass, 319 Fail, 185 Error
+JBL1:	468 Pass, 110 Fail, 58 Error
+Script ended at: Thu Feb  2 12:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 13:00:01 2017
+Ceragon:	2 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	111 Pass, 45 Fail, 11 Error
+Flex1:	723 Pass, 118 Fail, 52 Error
+Flex2:	376 Pass, 73 Fail, 46 Error
+VCL:	2892 Pass, 333 Fail, 187 Error
+JBL1:	480 Pass, 113 Fail, 58 Error
+Script ended at: Thu Feb  2 13:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 14:00:02 2017
+Ceragon:	2 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	111 Pass, 46 Fail, 11 Error
+Flex1:	728 Pass, 122 Fail, 54 Error
+Flex2:	388 Pass, 77 Fail, 49 Error
+VCL:	2916 Pass, 338 Fail, 189 Error
+JBL1:	499 Pass, 117 Fail, 62 Error
+Script ended at: Thu Feb  2 14:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 15:00:01 2017
+Ceragon:	2 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	111 Pass, 46 Fail, 11 Error
+Flex1:	742 Pass, 127 Fail, 57 Error
+Flex2:	404 Pass, 82 Fail, 50 Error
+VCL:	2976 Pass, 343 Fail, 195 Error
+JBL1:	521 Pass, 123 Fail, 64 Error
+Script ended at: Thu Feb  2 15:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 16:00:01 2017
+Ceragon:	2 Pass, 5 Fail, 0 Error
+Ionics1:	7 Pass, 3 Fail, 0 Error
+Ionics2:	112 Pass, 46 Fail, 11 Error
+Flex1:	755 Pass, 134 Fail, 57 Error
+Flex2:	425 Pass, 87 Fail, 50 Error
+VCL:	3036 Pass, 353 Fail, 198 Error
+JBL1:	544 Pass, 127 Fail, 67 Error
+Script ended at: Thu Feb  2 16:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 17:00:01 2017
+Ceragon:	3 Pass, 6 Fail, 1 Error
+Ionics1:	8 Pass, 3 Fail, 0 Error
+Ionics2:	113 Pass, 46 Fail, 11 Error
+Flex1:	772 Pass, 138 Fail, 57 Error
+Flex2:	430 Pass, 92 Fail, 50 Error
+VCL:	3069 Pass, 366 Fail, 199 Error
+JBL1:	583 Pass, 136 Fail, 71 Error
+Script ended at: Thu Feb  2 17:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 18:00:01 2017
+Ceragon:	3 Pass, 6 Fail, 1 Error
+Ionics1:	8 Pass, 3 Fail, 0 Error
+Ionics2:	113 Pass, 49 Fail, 12 Error
+Flex1:	785 Pass, 140 Fail, 57 Error
+Flex2:	437 Pass, 94 Fail, 51 Error
+VCL:	1755 Pass, 217 Fail, 116 Error
+JBL1:	599 Pass, 140 Fail, 74 Error
+Script ended at: Thu Feb  2 18:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 19:00:01 2017
+Ceragon:	3 Pass, 6 Fail, 1 Error
+Ionics1:	8 Pass, 3 Fail, 0 Error
+Ionics2:	113 Pass, 49 Fail, 12 Error
+Flex1:	800 Pass, 146 Fail, 57 Error
+Flex2:	442 Pass, 97 Fail, 51 Error
+VCL:	1799 Pass, 223 Fail, 118 Error
+JBL1:	604 Pass, 143 Fail, 74 Error
+Script ended at: Thu Feb  2 19:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 20:00:01 2017
+Ceragon:	3 Pass, 6 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	113 Pass, 49 Fail, 12 Error
+Flex1:	804 Pass, 146 Fail, 57 Error
+Flex2:	442 Pass, 100 Fail, 52 Error
+VCL:	1845 Pass, 224 Fail, 121 Error
+JBL1:	612 Pass, 143 Fail, 74 Error
+Script ended at: Thu Feb  2 20:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 21:00:01 2017
+Ceragon:	3 Pass, 6 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	113 Pass, 49 Fail, 12 Error
+Flex1:	806 Pass, 147 Fail, 57 Error
+Flex2:	444 Pass, 105 Fail, 52 Error
+VCL:	1889 Pass, 226 Fail, 127 Error
+JBL1:	617 Pass, 144 Fail, 74 Error
+Script ended at: Thu Feb  2 21:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 22:00:02 2017
+Ceragon:	3 Pass, 6 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	114 Pass, 49 Fail, 12 Error
+Flex1:	809 Pass, 147 Fail, 57 Error
+Flex2:	446 Pass, 110 Fail, 52 Error
+VCL:	1947 Pass, 232 Fail, 131 Error
+JBL1:	621 Pass, 145 Fail, 75 Error
+Script ended at: Thu Feb  2 22:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Thu Feb  2 23:00:01 2017
+Ceragon:	3 Pass, 6 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	114 Pass, 49 Fail, 12 Error
+Flex1:	812 Pass, 147 Fail, 57 Error
+Flex2:	446 Pass, 117 Fail, 52 Error
+VCL:	2007 Pass, 238 Fail, 135 Error
+JBL1:	626 Pass, 145 Fail, 75 Error
+Script ended at: Thu Feb  2 23:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 00:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	114 Pass, 49 Fail, 12 Error
+Flex1:	812 Pass, 148 Fail, 57 Error
+Flex2:	242 Pass, 82 Fail, 21 Error
+VCL:	2058 Pass, 242 Fail, 139 Error
+JBL1:	326 Pass, 77 Fail, 30 Error
+Script ended at: Fri Feb  3 00:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 01:00:02 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	76 Pass, 16 Fail, 7 Error
+Flex1:	355 Pass, 70 Fail, 22 Error
+Flex2:	249 Pass, 92 Fail, 21 Error
+VCL:	2109 Pass, 242 Fail, 143 Error
+JBL1:	330 Pass, 78 Fail, 30 Error
+Script ended at: Fri Feb  3 01:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 02:00:02 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	76 Pass, 16 Fail, 7 Error
+Flex1:	355 Pass, 70 Fail, 22 Error
+Flex2:	255 Pass, 95 Fail, 21 Error
+VCL:	2153 Pass, 251 Fail, 147 Error
+JBL1:	334 Pass, 81 Fail, 31 Error
+Script ended at: Fri Feb  3 02:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 03:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 2 Fail, 0 Error
+Ionics2:	80 Pass, 17 Fail, 7 Error
+Flex1:	360 Pass, 70 Fail, 22 Error
+Flex2:	259 Pass, 95 Fail, 21 Error
+VCL:	2224 Pass, 260 Fail, 157 Error
+JBL1:	335 Pass, 84 Fail, 32 Error
+Script ended at: Fri Feb  3 03:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 04:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 3 Fail, 0 Error
+Ionics2:	83 Pass, 20 Fail, 7 Error
+Flex1:	360 Pass, 70 Fail, 22 Error
+Flex2:	268 Pass, 95 Fail, 21 Error
+VCL:	2286 Pass, 274 Fail, 163 Error
+JBL1:	339 Pass, 87 Fail, 32 Error
+Script ended at: Fri Feb  3 04:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 05:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 3 Fail, 0 Error
+Ionics2:	84 Pass, 21 Fail, 9 Error
+Flex1:	360 Pass, 70 Fail, 22 Error
+Flex2:	276 Pass, 96 Fail, 21 Error
+VCL:	2405 Pass, 289 Fail, 167 Error
+JBL1:	343 Pass, 90 Fail, 33 Error
+Script ended at: Fri Feb  3 05:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 06:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 3 Fail, 0 Error
+Ionics2:	85 Pass, 21 Fail, 9 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	284 Pass, 96 Fail, 21 Error
+VCL:	2489 Pass, 302 Fail, 177 Error
+JBL1:	347 Pass, 91 Fail, 34 Error
+Script ended at: Fri Feb  3 06:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 07:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 3 Fail, 0 Error
+Ionics2:	85 Pass, 23 Fail, 9 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	292 Pass, 97 Fail, 21 Error
+VCL:	2538 Pass, 309 Fail, 186 Error
+JBL1:	348 Pass, 92 Fail, 34 Error
+Script ended at: Fri Feb  3 07:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 08:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 3 Fail, 0 Error
+Ionics2:	90 Pass, 25 Fail, 11 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	292 Pass, 97 Fail, 21 Error
+VCL:	2625 Pass, 319 Fail, 195 Error
+JBL1:	348 Pass, 92 Fail, 34 Error
+Script ended at: Fri Feb  3 08:00:18 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 09:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 3 Fail, 0 Error
+Ionics2:	95 Pass, 30 Fail, 13 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	293 Pass, 97 Fail, 21 Error
+VCL:	2714 Pass, 332 Fail, 197 Error
+JBL1:	351 Pass, 94 Fail, 34 Error
+Script ended at: Fri Feb  3 09:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 10:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	2 Pass, 4 Fail, 0 Error
+Ionics2:	96 Pass, 31 Fail, 14 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	295 Pass, 97 Fail, 21 Error
+VCL:	2780 Pass, 343 Fail, 204 Error
+JBL1:	371 Pass, 107 Fail, 39 Error
+Script ended at: Fri Feb  3 10:00:18 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 11:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	3 Pass, 4 Fail, 0 Error
+Ionics2:	98 Pass, 31 Fail, 14 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	296 Pass, 98 Fail, 21 Error
+VCL:	2818 Pass, 351 Fail, 213 Error
+JBL1:	395 Pass, 109 Fail, 41 Error
+Script ended at: Fri Feb  3 11:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 12:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	3 Pass, 4 Fail, 0 Error
+Ionics2:	106 Pass, 34 Fail, 14 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	2884 Pass, 360 Fail, 218 Error
+JBL1:	414 Pass, 112 Fail, 41 Error
+Script ended at: Fri Feb  3 12:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 13:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	3 Pass, 4 Fail, 0 Error
+Ionics2:	117 Pass, 36 Fail, 14 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	2936 Pass, 372 Fail, 220 Error
+JBL1:	431 Pass, 115 Fail, 44 Error
+Script ended at: Fri Feb  3 13:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 14:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	3 Pass, 4 Fail, 0 Error
+Ionics2:	118 Pass, 37 Fail, 15 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	2970 Pass, 375 Fail, 222 Error
+JBL1:	467 Pass, 118 Fail, 46 Error
+Script ended at: Fri Feb  3 14:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 15:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	3 Pass, 4 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 16 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	3008 Pass, 380 Fail, 228 Error
+JBL1:	486 Pass, 124 Fail, 49 Error
+Script ended at: Fri Feb  3 15:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 16:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	3 Pass, 4 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	3051 Pass, 383 Fail, 229 Error
+JBL1:	515 Pass, 132 Fail, 56 Error
+Script ended at: Fri Feb  3 16:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 17:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	4 Pass, 5 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	3097 Pass, 384 Fail, 232 Error
+JBL1:	519 Pass, 132 Fail, 56 Error
+Script ended at: Fri Feb  3 17:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 18:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	5 Pass, 5 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	1620 Pass, 191 Fail, 127 Error
+JBL1:	519 Pass, 133 Fail, 56 Error
+Script ended at: Fri Feb  3 18:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 19:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	5 Pass, 5 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	1673 Pass, 194 Fail, 131 Error
+JBL1:	519 Pass, 133 Fail, 56 Error
+Script ended at: Fri Feb  3 19:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 20:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	1712 Pass, 200 Fail, 133 Error
+JBL1:	519 Pass, 133 Fail, 56 Error
+Script ended at: Fri Feb  3 20:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 21:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	1755 Pass, 204 Fail, 135 Error
+JBL1:	519 Pass, 133 Fail, 56 Error
+Script ended at: Fri Feb  3 21:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 22:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	1837 Pass, 209 Fail, 137 Error
+JBL1:	519 Pass, 133 Fail, 56 Error
+Script ended at: Fri Feb  3 22:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Fri Feb  3 23:00:01 2017
+Ceragon:	3 Pass, 3 Fail, 1 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	297 Pass, 99 Fail, 21 Error
+VCL:	1899 Pass, 222 Fail, 137 Error
+JBL1:	519 Pass, 133 Fail, 56 Error
+Script ended at: Fri Feb  3 23:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 00:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	119 Pass, 38 Fail, 19 Error
+Flex1:	360 Pass, 71 Fail, 22 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	1959 Pass, 225 Fail, 138 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 00:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 01:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	74 Pass, 25 Fail, 17 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2001 Pass, 238 Fail, 141 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 01:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 02:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	74 Pass, 25 Fail, 17 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2042 Pass, 250 Fail, 144 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 02:00:25 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 03:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	75 Pass, 26 Fail, 19 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2146 Pass, 259 Fail, 156 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 03:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 04:00:02 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	75 Pass, 26 Fail, 19 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2243 Pass, 265 Fail, 159 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 04:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 05:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	75 Pass, 26 Fail, 19 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2382 Pass, 277 Fail, 167 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 05:00:19 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 06:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	76 Pass, 26 Fail, 21 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2482 Pass, 281 Fail, 175 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 06:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 07:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	76 Pass, 26 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2511 Pass, 283 Fail, 176 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 07:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 08:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	76 Pass, 26 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2598 Pass, 298 Fail, 178 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 08:00:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 09:00:02 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	76 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2708 Pass, 302 Fail, 182 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 09:00:16 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 10:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	76 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2782 Pass, 308 Fail, 186 Error
+JBL1:	257 Pass, 68 Fail, 27 Error
+Script ended at: Sat Feb  4 10:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 11:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	77 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2784 Pass, 308 Fail, 186 Error
+JBL1:	258 Pass, 70 Fail, 27 Error
+Script ended at: Sat Feb  4 11:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 12:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2785 Pass, 308 Fail, 186 Error
+JBL1:	259 Pass, 70 Fail, 27 Error
+Script ended at: Sat Feb  4 12:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 13:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2798 Pass, 309 Fail, 186 Error
+JBL1:	260 Pass, 70 Fail, 27 Error
+Script ended at: Sat Feb  4 13:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 14:00:02 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2826 Pass, 313 Fail, 188 Error
+JBL1:	261 Pass, 71 Fail, 27 Error
+Script ended at: Sat Feb  4 14:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 15:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2862 Pass, 315 Fail, 190 Error
+JBL1:	261 Pass, 71 Fail, 28 Error
+Script ended at: Sat Feb  4 15:01:20 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 16:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2902 Pass, 315 Fail, 192 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 16:00:17 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 17:00:02 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	2932 Pass, 316 Fail, 194 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 17:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 18:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	1503 Pass, 145 Fail, 74 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 18:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 19:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 4 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	1529 Pass, 149 Fail, 76 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 19:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 20:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	1569 Pass, 154 Fail, 77 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 20:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 21:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	1601 Pass, 158 Fail, 80 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 21:00:13 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 22:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	1637 Pass, 162 Fail, 84 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 22:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sat Feb  4 23:00:02 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	56 Pass, 21 Fail, 0 Error
+VCL:	1671 Pass, 162 Fail, 87 Error
+JBL1:	262 Pass, 71 Fail, 29 Error
+Script ended at: Sat Feb  4 23:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 00:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	79 Pass, 27 Fail, 23 Error
+Flex1:	9 Pass, 1 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1687 Pass, 165 Fail, 88 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 00:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 01:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	0 Pass, 0 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1718 Pass, 168 Fail, 89 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 01:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 02:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	0 Pass, 0 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1739 Pass, 171 Fail, 90 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 02:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 03:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	0 Pass, 0 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1788 Pass, 173 Fail, 92 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 03:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 04:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	0 Pass, 0 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1836 Pass, 177 Fail, 94 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 04:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 05:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	0 Pass, 0 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1894 Pass, 182 Fail, 96 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 05:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 06:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	0 Pass, 0 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1949 Pass, 183 Fail, 99 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 06:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 07:00:02 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	0 Pass, 0 Fail, 0 Error
+Flex2:	0 Pass, 0 Fail, 0 Error
+VCL:	1971 Pass, 183 Fail, 100 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 07:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 08:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	24 Pass, 5 Fail, 1 Error
+Flex2:	21 Pass, 3 Fail, 1 Error
+VCL:	2062 Pass, 186 Fail, 100 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 08:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 09:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	58 Pass, 9 Fail, 2 Error
+Flex2:	63 Pass, 10 Fail, 4 Error
+VCL:	2143 Pass, 186 Fail, 100 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 09:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 10:00:01 2017
+Ceragon:	0 Pass, 0 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	102 Pass, 20 Fail, 4 Error
+Flex2:	89 Pass, 12 Fail, 4 Error
+VCL:	2177 Pass, 190 Fail, 101 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 10:00:14 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 11:00:01 2017
+Ceragon:	0 Pass, 2 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	144 Pass, 24 Fail, 7 Error
+Flex2:	131 Pass, 18 Fail, 9 Error
+VCL:	2177 Pass, 190 Fail, 101 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 11:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 12:00:01 2017
+Ceragon:	4 Pass, 2 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	184 Pass, 31 Fail, 11 Error
+Flex2:	181 Pass, 23 Fail, 14 Error
+VCL:	2177 Pass, 190 Fail, 101 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 12:00:15 2017
+*****************************************************************************************
+*****************************************************************************************
+* This scriptp receive data from all servers and put to local data base for fast access *
+*****************************************************************************************
+Script started at: Sun Feb  5 13:00:01 2017
+Ceragon:	4 Pass, 2 Fail, 0 Error
+Ionics1:	4 Pass, 0 Fail, 0 Error
+Ionics2:	12 Pass, 4 Fail, 11 Error
+Flex1:	240 Pass, 36 Fail, 14 Error
+Flex2:	223 Pass, 28 Fail, 17 Error
+VCL:	2177 Pass, 190 Fail, 101 Error
+JBL1:	18 Pass, 7 Fail, 3 Error
+Script ended at: Sun Feb  5 13:00:14 2017
+*****************************************************************************************
